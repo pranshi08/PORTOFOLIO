@@ -1,0 +1,30 @@
+h1{
+    color:antiquewhite;
+}
+
+.Header{
+    background-color:deeppink;
+    display: flex;
+    justify-content: space-between
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #E0E0E0;
+    border: black;
+
+    
+    font-size: 200%
+    
+}
